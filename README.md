@@ -1,5 +1,5 @@
-### Hi Friendd! 👋
-
+### Hii! 👋
+## I’m currently learning about automation testing and laravel again
 <!--
 **aliyahuyy/aliyahuyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
